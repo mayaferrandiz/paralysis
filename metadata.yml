@@ -17,26 +17,15 @@ physical_specifications:
     value: ""
     unit: "kg"
   materials:
-    primary: []
+    primary: ['Water Vapor', 'Bioplastic', '650nm Laser', 'Code', 'Circuitry']
     secondary: []
     consumables: []
 
 technical_requirements:
-  power:
-    voltage: ""
-    amperage: ""
-    details: ""
-  space:
-    dimensions: ""
-    minimum_clearance: ""
-    preferred_layout: ""
-  lighting:
-    requirements: ""
-    preferences: ""
-  mounting:
-    method: ""
-    weight_capacity_needed: ""
-    special_requirements: ""
+  power: ""
+  space: ""
+  lighting: "Dim lighting"
+  mounting: "Pedestal Stand"
   environmental:
     temperature_range: ""
     humidity_range: ""
@@ -44,12 +33,11 @@ technical_requirements:
 
 exhibition:
   setup:
-    time_required: ""
-    people_required: ""
+    time_required: "15"
+    people_required: "1"
     tools_required: []
-    instructions: []
+    instructions: ["Fill reservoir with water using provided funnel.","Wait approximately 15 minutes to allow cotton wick to absorb water.","Plug in AC power to outlet to begin operation."]
   maintenance:
-    frequency: ""
-    tasks: []
-    supplies_needed: []
+    tasks: ["Fill reservoir with water using provided funnel every 30 minutes"]
+    supplies_needed: ["Funnel, Water"]
   history: []
