@@ -1,7 +1,5 @@
 # 🌫️ Paralysis
 
-[View on my website](http://mayaferrandiz.github.io/paralysis)
-
 
 ## Media
 
