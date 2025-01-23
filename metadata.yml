@@ -2,9 +2,9 @@ project:
   name: "paralysis"
   display_name: "🌫️ Paralysis"
   date_created: "2025-01-22"
-  status: "backlog"
-  description: "Brief project description goes here..."
-  featured_image: "IMG_7050 2.JPG"
+  status: "published"
+  description: "Regret and the triumph of finding oneself."
+  featured_image: "IMG_7050_2.JPG"
   tags: ["Art", "Sculpture"]
 
 physical_specifications:
