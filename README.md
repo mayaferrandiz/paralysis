@@ -1,7 +1,6 @@
 # 🌫️ Paralysis
 
-    
-Write your project content here. This content will be used in both the README 
+    Write your project content here. This content will be used in both the README 
 and Jekyll post. You can use **markdown** formatting.
 
 ## Project Overview
@@ -29,3 +28,8 @@ Document your creative/technical process...
 
     ## Media
     
+### Videos
+- [paralysis](media/videos/paralysis.webm)
+
+### 3D Models
+- [paralysis](media/models/paralysis.glb)
