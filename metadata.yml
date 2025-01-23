@@ -4,8 +4,8 @@ project:
   date_created: "2025-01-22"
   status: "backlog"
   description: "Brief project description goes here..."
-  featured_image: ""  # Just the filename, e.g. "hero.jpg"
-  tags: []
+  featured_image: "IMG_7050 2.JPG"
+  tags: ["Art", "Sculpture"]
 
 physical_specifications:
   dimensions:
