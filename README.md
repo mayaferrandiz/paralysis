@@ -1,5 +1,6 @@
-# 🌫️ Paralysis
-
+#🌫️ Paralysis
+[View on my website](None/paralysis)
+{content}
 ## Media
 
 ### Images
