@@ -1,0 +1,55 @@
+project:
+  name: "paralysis"
+  display_name: "🌫️ Paralysis"
+  date_created: "2025-01-22"
+  status: "backlog"
+  description: "Brief project description goes here..."
+  featured_image: ""  # Just the filename, e.g. "hero.jpg"
+  tags: []
+
+physical_specifications:
+  dimensions:
+    width: ""
+    height: ""
+    depth: ""
+    unit: "cm"
+  weight:
+    value: ""
+    unit: "kg"
+  materials:
+    primary: []
+    secondary: []
+    consumables: []
+
+technical_requirements:
+  power:
+    voltage: ""
+    amperage: ""
+    details: ""
+  space:
+    dimensions: ""
+    minimum_clearance: ""
+    preferred_layout: ""
+  lighting:
+    requirements: ""
+    preferences: ""
+  mounting:
+    method: ""
+    weight_capacity_needed: ""
+    special_requirements: ""
+  environmental:
+    temperature_range: ""
+    humidity_range: ""
+    ventilation_needs: ""
+
+exhibition:
+  setup:
+    time_required: ""
+    people_required: ""
+    tools_required: []
+    instructions: []
+  maintenance:
+    frequency: ""
+    tasks: []
+    supplies_needed: []
+  history: []
