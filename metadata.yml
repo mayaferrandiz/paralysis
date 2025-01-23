@@ -2,7 +2,7 @@ project:
   name: "paralysis"
   display_name: "🌫️ Paralysis"
   date_created: "2025-01-22"
-  status: "published" # backlog, in progress, complete, published
+  status: "complete" # backlog, in progress, complete
   priority: 0
   description: "Regret and the triumph of finding oneself."
   featured_image: "IMG_7050_2.JPG"
