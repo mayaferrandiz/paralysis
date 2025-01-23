@@ -1,7 +1,10 @@
-#🌫️ Paralysis
-[View on my website](None/paralysis)
-{content}
+# 🌫️ Paralysis
+
+[View on my website](mayaferrandiz.github.io/paralysis)
+
+
 ## Media
+
 
 ### Images
 ![IMG_7050_2](media/images/IMG_7050_2.JPG)
