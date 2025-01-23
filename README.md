@@ -1,9 +1,7 @@
 # 🌫️ Paralysis
 
-    
+## Media
 
-    ## Media
-    
 ### Images
 ![IMG_7050_2](media/images/IMG_7050_2.JPG)
 ![IMG_7056](media/images/IMG_7056.JPG)
