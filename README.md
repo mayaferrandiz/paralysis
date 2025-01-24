@@ -12,7 +12,7 @@
 ![paralysis_5](media/images/paralysis_5.JPG)
 
 ### Videos
-- [paralysis](media/videos/paralysis.webm)
+- [paralysis_1](media/videos/paralysis_1.webm)
 
 ### 3D Models
 - [paralysis](media/models/paralysis.glb)
