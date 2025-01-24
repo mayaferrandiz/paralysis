@@ -1,11 +1,16 @@
 project:
   name: "paralysis"
   display_name: "🌫️ Paralysis"
-  date_created: "2025-01-22"
+  date_created: "2024-07-30"
   status: "complete" # backlog, in progress, complete
   priority: 0
   description: "Regret and the triumph of finding oneself."
-  featured_image: "IMG_7050_2.JPG"
+  featured_content: 
+    type: "image"
+    source: "IMG_7050_2.JPG"  # Just the filename, e.g. "hero.jpg"
+    language: ""
+    start_line: 0
+    end_line: 10
   tags: ["Art", "Sculpture"]
 
 physical_specifications:
@@ -25,8 +30,8 @@ physical_specifications:
 technical_requirements:
   power: ""
   space: ""
-  lighting: "Dim lighting"
-  mounting: "Pedestal Stand"
+  lighting: "Dim lighting preferred"
+  mounting: "Pedestal Stand approx 3 ft tall"
   environmental:
     temperature_range: ""
     humidity_range: ""
@@ -34,11 +39,11 @@ technical_requirements:
 
 exhibition:
   setup:
-    time_required: "15"
+    time_required: "15 minutes"
     people_required: "1"
     tools_required: []
     instructions: ["Fill reservoir with water using provided funnel.","Wait approximately 15 minutes to allow cotton wick to absorb water.","Plug in AC power to outlet to begin operation."]
   maintenance:
     tasks: ["Fill reservoir with water using provided funnel every 30 minutes"]
-    supplies_needed: ["Funnel, Water"]
+    supplies_needed: ["Funnel (provided)", "Water"]
   history: []
