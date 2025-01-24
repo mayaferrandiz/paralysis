@@ -18,10 +18,10 @@ physical_specifications:
     width: ""
     height: ""
     depth: ""
-    unit: "cm"
+    unit: ""
   weight:
     value: ""
-    unit: "kg"
+    unit: ""
   materials:
     primary: ['Water Vapor', 'Bioplastic', '650nm Laser', 'Code', 'Circuitry']
     secondary: []
@@ -40,7 +40,7 @@ technical_requirements:
 exhibition:
   setup:
     time_required: "15 minutes"
-    people_required: "1"
+    people_required: "1 person"
     tools_required: []
     instructions: ["Fill reservoir with water using provided funnel.","Wait approximately 15 minutes to allow cotton wick to absorb water.","Plug in AC power to outlet to begin operation."]
   maintenance:
