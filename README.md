@@ -5,11 +5,11 @@
 
 
 ### Images
-![IMG_7050_2](media/images/IMG_7050_2.JPG)
-![IMG_7056](media/images/IMG_7056.JPG)
-![IMG_7050](media/images/IMG_7050.JPG)
-![IMG_7051](media/images/IMG_7051.JPG)
-![IMG_7046](media/images/IMG_7046.JPG)
+![paralysis_2](media/images/paralysis_2.JPG)
+![paralysis_3](media/images/paralysis_3.JPG)
+![paralysis_1](media/images/paralysis_1.JPG)
+![paralysis_4](media/images/paralysis_4.JPG)
+![paralysis_5](media/images/paralysis_5.JPG)
 
 ### Videos
 - [paralysis](media/videos/paralysis.webm)
