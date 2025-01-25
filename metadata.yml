@@ -1,6 +1,7 @@
 project:
   name: "paralysis"
   display_name: "🌫️ Paralysis"
+  title: "Paralysis"
   date_created: "2024-07-30"
   status: "complete" # backlog, in progress, complete
   priority: 0
